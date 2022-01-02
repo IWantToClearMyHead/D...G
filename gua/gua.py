@@ -461,7 +461,7 @@ Builder.load_string("""
             
             Image:
                 id: 1
-                source: '1.png'
+                source: '01.png'
                 allow_stretch: False
             Label:
                 text: '乾元亨利贞\\n\\n用九见群龙无首吉'
@@ -801,7 +801,7 @@ Builder.load_string("""
             
             Image:
                 id: 9
-                source: '9.png'
+                source: '09.png'
                 allow_stretch: False
             Label:
                 text: '小畜亨密云不雨自我西郊'
@@ -886,7 +886,7 @@ Builder.load_string("""
             
             Image:
                 id: 5
-                source: '5.png'
+                source: '05.png'
                 allow_stretch: False
             Label:
                 text: '需有孚光亨贞吉利涉大川'
@@ -3036,7 +3036,7 @@ Builder.load_string("""
             
             Image:
                 id: 3
-                source: '3.png'
+                source: '03.png'
                 allow_stretch: False
             Label:
                 text: '屯元亨利贞勿用有攸往利建侯'
@@ -4035,7 +4035,7 @@ Builder.load_string("""
             
             Image:
                 id: 6
-                source: '6.png'
+                source: '06.png'
                 allow_stretch: False
             Label:
                 text: '讼有孚窒惕中吉终凶利见大人不利涉大川'
@@ -4584,7 +4584,7 @@ Builder.load_string("""
             
             Image:
                 id: 4
-                source: '4.png'
+                source: '04.png'
                 allow_stretch: False
             Label:
                 text: '蒙亨匪我求童蒙童蒙求我初筮告再三渎渎则不告利贞'
@@ -4678,7 +4678,7 @@ Builder.load_string("""
             
             Image:
                 id: 7
-                source: '7.png'
+                source: '07.png'
                 allow_stretch: False
             Label:
                 text: '师贞丈人吉无咎'
@@ -5957,7 +5957,7 @@ Builder.load_string("""
         BoxLayout:
             Image:
                 id: 8
-                source: '8.png'
+                source: '08.png'
                 allow_stretch: False
             Label:
                 text: '比吉原筮元永貞无咎不寧方來後夫凶'
@@ -6141,7 +6141,7 @@ Builder.load_string("""
         BoxLayout:
             Image:
                 id: 2
-                source: '2.png'
+                source: '02.png'
                 allow_stretch: False
             Label:
                 text: '坤元亨利牝馬之貞君子有攸往先迷後得主利西南得朋東北喪朋安貞吉'
